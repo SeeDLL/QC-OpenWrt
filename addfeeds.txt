@@ -1,0 +1,2 @@
+src-git seed https://github.com/SeeDLL/myOpenWrtPackage
+src-git openclash https://github.com/vernesong/OpenClash.git
